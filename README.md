@@ -1,1 +1,1 @@
-# Information-Retrieval-NLP
+# NLP Information-Retrieval
